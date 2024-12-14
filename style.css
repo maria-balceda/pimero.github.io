@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+
+}
+.pagina{
+    width: 1000px;
+    background-color: antiquewhite;
+
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black
+}
+.fila{
+    width: 100%;
+    height: 150;
+    background-color:bisque;
+    border: 1px solid black;
+    display: flex;
+}
+#opciones{
+    width: 20%;
+    height: fit-content;
+    border: 2px solid black;
+}
+section{
+    width: 80%;
+    
+   
+}
+.caja{
+    width: 25%;
+}
+img{
+    height: 100px;
+}
+#multicolor{
+    width: 30%;
+    border: 2px solid blueviolet;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+
+}
